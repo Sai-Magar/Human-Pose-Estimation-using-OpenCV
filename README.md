@@ -81,4 +81,4 @@ OpenCV
 MediaPipe
 
 Contact
-For any questions or inquiries, please contact me at ksharma.sudeep@gmail.com
+For any questions or inquiries, please contact me at magarsai000@gmail.com
